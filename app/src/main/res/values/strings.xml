@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Sentimental_Analysis</string>
+    <string name="subscription_key">2c56cce7719a4543bb4de04d7aca8f8b</string>
+
+    <string name="faceSubscription_key">dd74874560fd4b6e8aeab48fd823c99b</string>
 </resources>
